@@ -1,6 +1,6 @@
 PROJECT TITLE: Student grade management system using PL/SQL collections, records and GOTO
 1. Problem identification
-A school wamts a simple PL/SQL program that can:
+A school wants a simple PL/SQL program that can:
 -store student names and their grades
 -calcular=te each student's averages
 -decide who passed and who failed
