@@ -1,4 +1,4 @@
-POJECT TITLE: Student grade management system using PL/SQL collections, records and GOTO
+PROJECT TITLE: Student grade management system using PL/SQL collections, records and GOTO
 1. Problem identification
 A school wamts a simple PL/SQL program that can:
 -store student names and their grades
@@ -11,7 +11,7 @@ A school wamts a simple PL/SQL program that can:
 -GOTO: to jump past a student if invalid data is detected
 At the end the program will give output showing: student Id, student name, average grade and pass/fail
 3. what's inside the repository
--
+-student-grade-management.sql
 contains table creation, sample data and PL/SQL program
 4. Ways in which this program works
 -Each student is registered in students table
