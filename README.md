@@ -27,7 +27,7 @@ At the end the program will give output showing: student Id, student name, avera
    
 -student-grade-management.sql:contains table creation, sample data and PL/SQL program
 
-5. Ways in which this program works
+4. Ways in which this program works
    
 -Each student is registered in students table
 
